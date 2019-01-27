@@ -1,4 +1,5 @@
 import React from "react";
+import SplashScreen from "react-native-splash-screen";
 import { FlatList, View, Text, Image, TouchableHighlight, ScrollView } from "react-native";
 
 import MyListItem from "./../components/main/main-list";
@@ -7,6 +8,9 @@ export default class Main extends React.Component {
 	constructor(props) {
 		super(props);
 		this.showWebPage = this.showWebPage.bind(this);
+	}
+	componentDidMount() {
+		SplashScreen.hide();
 	}
 	showWebPage(url,name){
 		

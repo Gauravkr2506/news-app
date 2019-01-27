@@ -36,6 +36,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.png.flat",
+        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\drawable-ldpi\\splash.png"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -308,6 +316,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -432,6 +444,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.57.8.aar\\b31ead2200168fb29d89212899d8394c\\res\\anim\\catalyst_fade_out.xml"
     },
     {
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_launch_screen.xml.flat",
+        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -530,6 +546,10 @@
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -638,10 +658,6 @@
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -784,10 +800,6 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
@@ -800,20 +812,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e936a24a93fedd4fdf350691d804a240\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dev_loading_view.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.57.8.aar\\b31ead2200168fb29d89212899d8394c\\res\\layout\\dev_loading_view.xml"
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dev_loading_view.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.57.8.aar\\b31ead2200168fb29d89212899d8394c\\res\\layout\\dev_loading_view.xml"
+    },
+    {
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1018,6 +1030,10 @@
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
@@ -1252,8 +1268,8 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e936a24a93fedd4fdf350691d804a240\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash.png.flat",
+        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\splash.png"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
@@ -1332,10 +1348,6 @@
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
@@ -1394,10 +1406,6 @@
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\82f7e027f1a4be351a986fb79593fa43\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\future\\native\\yttd\\news-app\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",

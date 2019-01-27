@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
  
-import { StyleSheet, WebView, Platform, ActivityIndicator} from 'react-native';
+import {View,Text, StyleSheet, WebView, Platform, ActivityIndicator} from 'react-native';
  
 export default class MainActivity extends Component {
-	
+  
+  constructor(props){
+    super(props);
+    this.state = {show:true}
+  }
  
   ActivityIndicatorLoadingView() {
     
@@ -21,15 +25,19 @@ export default class MainActivity extends Component {
 		const { navigation } = this.props;
 		const url = navigation.getParam("url", "https://www.jagran.com/");
        return (
-    
-         <WebView 
+    <View>
+      {this.state.show ?(<WebView 
          style={styles.WebViewStyle} 
          source={{ uri: url }}
          javaScriptEnabled={true}
          domStorageEnabled={true}
+         renderError={this.ActivityIndicatorLoadingView} 
          renderLoading={this.ActivityIndicatorLoadingView} 
+         onError={()=>this.setState({show:false})}
          startInLoadingState={true}  
-         />
+         />) : <View><Text>  Net problem Try after some time</Text></View> }
+    </View>
+         
    
        );
      }
@@ -52,7 +60,7 @@ ActivityIndicatorStyle:{
     position: 'absolute',
     left: 0,
     right: 0,
-    top: 0,
+    top: 40,
     bottom: 0,
     alignItems: 'center',
     justifyContent: 'center'
