@@ -25,7 +25,7 @@ export default class MainActivity extends Component {
 		const { navigation } = this.props;
 		const url = navigation.getParam("url", "https://www.jagran.com/");
        return (
-    <View>
+    <>
       {this.state.show ?(<WebView 
          style={styles.WebViewStyle} 
          source={{ uri: url }}
@@ -35,8 +35,9 @@ export default class MainActivity extends Component {
          renderLoading={this.ActivityIndicatorLoadingView} 
          onError={()=>this.setState({show:false})}
          startInLoadingState={true}  
-         />) : <View><Text>  Net problem Try after some time</Text></View> }
-    </View>
+         onShouldStartLoadWithRequest={()=>this.setState({show:false})}
+         />) : <View><Text>Net problem Please try after sometime</Text></View> }
+    </>
          
    
        );

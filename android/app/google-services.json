@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "388011729429",
+    "firebase_url": "https://news-48da7.firebaseio.com",
+    "project_id": "news-48da7",
+    "storage_bucket": "news-48da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388011729429:android:98d3007d0d2ade00",
+        "android_client_info": {
+          "package_name": "com.gaurav.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388011729429-mpk4pqsjfpu2m0j02kou6r0jrt5lv3u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-tx7Y4KxxUenlgy0lqk8I_kPl-q6Wkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
