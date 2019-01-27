@@ -6,52 +6,77 @@ import MyListItem from "./../components/main/main-list";
 export default class Main extends React.Component {
 	constructor(props) {
 		super(props);
-		// this.getData = this.getData.bind(this);
+		this.showWebPage = this.showWebPage.bind(this);
 	}
-	componentWillMount() {
-		// this.props.LoadData();
+	showWebPage(url,name){
+		
+		setTimeout(()=>{this.props.navigation.navigate("WebViewScreen", { url: url,name:name })},1000)
+		
 	}
-	// getData() {
-	// 	return this.props.data.map(item => {
-	// 		return { key: item.key, tutorial_name: item.tutorial_name, description: item.description, img: item.img };
-	// 	});
-	// }
+
 	_renderItem = ({ item }) => <MyListItem data={item} navigation={this.props.navigation} />;
 	render() {
 		return (
 			<ScrollView contentContainerStyle={{ margin: 0, padding: 0, backgroundColor: "#000" }}>
 				<View style={{ flexDirection: "row" }}>
 					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-						<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://www.amarujala.com/" })}>
+						<TouchableHighlight onPress={() => this.showWebPage("https://www.amarujala.com/","Amar Ujala")}>
 							<Image source={require("./../../img/1.jpg")} resizeMode="contain" style={{ width: 160 }} />
 						</TouchableHighlight>
 					</View>
 					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-						<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://www.jagran.com/" })}>
+						<TouchableHighlight onPress={() => this.showWebPage("https://www.jagran.com/","Danik Jagran")}>
 							<Image source={require("./../../img/2.jpg")} resizeMode="contain" style={{ width: 160 }} />
 						</TouchableHighlight>
 					</View>
 				</View>
 
-				<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://www.bbc.com/hindi" })}>
-					<Image source={require("./../../img/3.jpg")} />
+				<View style={{ flexDirection: "row" }}>
+					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
+					<TouchableHighlight onPress={() => this.showWebPage("https://www.bbc.com/hindi","BBC")}>
+					<Image source={require("./../../img/3.jpg")} resizeMode="contain" style={{ width: 160 }}/>
 				</TouchableHighlight>
-				<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://kohraam.com/" })}>
-					<Image source={require("./../../img/4.jpg")} />
+					</View>
+					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
+					<TouchableHighlight onPress={() => this.showWebPage("https://kohraam.com/","Kohraam News")}>
+					<Image source={require("./../../img/4.jpg")} resizeMode="contain" style={{ width: 160 }}/>
 				</TouchableHighlight>
-				<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://www.cobrapost.com/" })}>
-					<Image source={require("./../../img/5.jpg")} />
-				</TouchableHighlight>
+					</View>
+				</View>
 
-				<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://aajtak.intoday.in/" })}>
-					<Image source={require("./../../img/6.jpg")} />
+				<View style={{ flexDirection: "row" }}>
+					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
+					<TouchableHighlight onPress={() => this.showWebPage("https://www.cobrapost.com/","Cobra Post")}>
+					<Image source={require("./../../img/5.jpg")} resizeMode="contain" style={{ width: 160 }}/>
 				</TouchableHighlight>
-				<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://www.haribhoomi.com/" })}>
-					<Image source={require("./../../img/7.jpg")} />
+					</View>
+					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
+					<TouchableHighlight onPress={() => this.showWebPage("https://aajtak.intoday.in/","AajTak")}>
+					<Image source={require("./../../img/6.jpg")} resizeMode="contain" style={{ width: 160 }}/>
 				</TouchableHighlight>
-				<TouchableHighlight onPress={() => this.props.navigation.navigate("WebViewScreen", { url: "https://www.dbnnews.in/" })}>
-					<Image source={require("./../../img/8.jpg")} />
+					</View>
+				</View>
+
+				<View style={{ flexDirection: "row" }}>
+					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
+					<TouchableHighlight onPress={() => this.showWebPage("https://www.haribhoomi.com/","Hari Bhoomi News")}>
+					<Image source={require("./../../img/7.jpg")} resizeMode="contain" style={{ width: 160 }}/>
 				</TouchableHighlight>
+					</View>
+					<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
+					<TouchableHighlight onPress={() => this.showWebPage("https://www.dbnnews.in/","DBN News")}>
+					<Image source={require("./../../img/8.jpg")} resizeMode="contain" style={{ width: 160 }}/>
+				</TouchableHighlight>
+					</View>
+				</View>
+
+				
+				
+				
+
+				
+				
+				
 			</ScrollView>
 		);
 	}

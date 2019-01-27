@@ -24,7 +24,12 @@ const MainNav = createStackNavigator(
 				title: "NEWS"
 			})
 		},
-		WebViewScreen: WebViewScreen
+		WebViewScreen: {
+			screen: WebViewScreen,
+			navigationOptions: ({ navigation }) => ({
+				title: navigation.state.params.name
+			})
+		}
 	},
 	{
 		defaultNavigationOptions: () =>
