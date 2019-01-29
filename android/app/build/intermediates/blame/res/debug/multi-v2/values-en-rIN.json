@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "/Users/healthmug/Documents/Gaurav/news/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\db02b80fde957cf504bebc598c99f457\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "/Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dff4f4ef0c0fcd770e6635745579a3cf/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fb7ec06e4edab65f38e8b2d9d2321b62\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "/Users/healthmug/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/199b900a327b311dd300a42a2f02e924/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

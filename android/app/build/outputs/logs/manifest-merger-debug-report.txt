@@ -1,410 +1,410 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-MERGED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
-MERGED from [:react-native-splash-screen] F:\future\native\yttd\news-app\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-gesture-handler] F:\future\native\yttd\news-app\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\4771460dc3ff2e1b8739e467acbe501d\AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fb7ec06e4edab65f38e8b2d9d2321b62\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\d8991a044c01e5118aa2468a4bfa011f\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:17:1-34:12
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\b782dad013e39699d215e2a830272dd9\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:17:1-59:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b7801b8649af90fff8a7bc210f4391a6\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ef16401f936eb7a7d2e505513e96e32f\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\6c1a2ffdfcacdbeb89a4ae39ba6dad02\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\5e3799f5ca530135837f7bf5749da9e6\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\240536a334988f2cc373186ac788897f\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\089faacd33c2990937990effd4e11dc3\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cf2f2c448bd533d6083b39101a95e9ab\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b49f6771ebf395ab3361204f06175d7f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\63da459b1ab59cc19497b886d42f0432\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0ff75725cdfecd93f81ddd487819b224\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\a0405dd5c71fb1bbd365c83200cbe9e7\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a4c45e1009441cbf9f91b4780a296b1e\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\b68c876a2bfae054f157262b21e1dbfd\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ebefb8b7441346999c0cfd57c372401f\AndroidManifest.xml:2:1-13:12
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f276cc1602fb1ca7647cad9b75f7c90b\AndroidManifest.xml:1:1-3:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6bc76a7ec8c6befee2d92c8ab3205029\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee436a139bf426e2b307fcc2c3784fb6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1621efe4edb20dc39c357fd8f2005d9b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7fe807804593e85427fde2c16e3e13a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5ad8ff22792dc27dbc119ca8138d0947\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e0118864a582c6184aad97b6a2e0ae26\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db02b80fde957cf504bebc598c99f457\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\81bc39d002e1cb6d6be6bedc6af20389\AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6dca5a999dcd0c2619f3b54e869a6d9\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f0fde2ffb2cb23ac6fac096c6290d484\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\09ff669b3f66316a24b2644c429f4d94\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\48adbc2c12d2115e7125f8d7f0e9b553\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-splash-screen] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-gesture-handler] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/d3e2b32c27aa9a262bcfad303e2f9dbe/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/199b900a327b311dd300a42a2f02e924/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/dd7d00944e02e020f474075e54d2351f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/010548bf386321138410a06831665d51/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/76619f482248b8b10c554eddc303193e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5f098852d6121f260cfa32414d480f55/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/02a22fba4b0e4ea9b819a14925d0cb3a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/4fb370d7b326b02fe9f7d756a8e43462/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/01c3dbb586ee1f5dcf66513676d9ae49/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2ef26cb06d1d0170094191a117d83490/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d5412dbc057267010bd705edf8f6438/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5d40624a5a5dd9dc0dc7264b31d7858d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/077dfa156e4a39ffb52e4def374bc5fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6a0838ae3ce2437d3f9929be7ede38f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2533c812bbb42e0fb89fd1128d50886b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/8417f4d578f4ec4aa23c57cdc8864947/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/67385315517ca01ff70a6f44638ef4cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5466e83e6ab9b851655ac7baac0d50be/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b9a9c12d9911ded8290c62e7d7def66b/AndroidManifest.xml:1:1-3:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a45586d50cd0c3f496403a790824e8ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a55ebc53e0c863877ee7c4d0e29a4db6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8e39aabae79afad4af87c90b64c8d85c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ce0bb0f271f97860dd0b5c180682202a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2efcf6ce00d11f495fd5e96c92551398/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/783930e90a2c67c9fd80941adcd0507f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dff4f4ef0c0fcd770e6635745579a3cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ca538114b8556730c28cf67ac0c34a53/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7efdc5edb6a5d326174a4da21c95b745/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/47313fe5798792f9bc79b67bcae77022/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a5f47e891afd18ccbb0c3e1396cfab4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/33db97939b5c7672375a0674ecd78b4f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
 	package
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:2:5-30
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-67
-MERGED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:23:5-67
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\4771460dc3ff2e1b8739e467acbe501d\AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\4771460dc3ff2e1b8739e467acbe501d\AndroidManifest.xml:11:5-78
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/d3e2b32c27aa9a262bcfad303e2f9dbe/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/d3e2b32c27aa9a262bcfad303e2f9dbe/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:5:22-75
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:7:5-25:19
-MERGED from [:react-native-splash-screen] F:\future\native\yttd\news-app\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-splash-screen] F:\future\native\yttd\news-app\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\4771460dc3ff2e1b8739e467acbe501d\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\4771460dc3ff2e1b8739e467acbe501d\AndroidManifest.xml:13:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\d8991a044c01e5118aa2468a4bfa011f\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\d8991a044c01e5118aa2468a4bfa011f\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\b782dad013e39699d215e2a830272dd9\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\b782dad013e39699d215e2a830272dd9\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b7801b8649af90fff8a7bc210f4391a6\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b7801b8649af90fff8a7bc210f4391a6\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ef16401f936eb7a7d2e505513e96e32f\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ef16401f936eb7a7d2e505513e96e32f\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\6c1a2ffdfcacdbeb89a4ae39ba6dad02\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\6c1a2ffdfcacdbeb89a4ae39ba6dad02\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\5e3799f5ca530135837f7bf5749da9e6\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\5e3799f5ca530135837f7bf5749da9e6\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\240536a334988f2cc373186ac788897f\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\240536a334988f2cc373186ac788897f\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\089faacd33c2990937990effd4e11dc3\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\089faacd33c2990937990effd4e11dc3\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ebefb8b7441346999c0cfd57c372401f\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ebefb8b7441346999c0cfd57c372401f\AndroidManifest.xml:11:5-20
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f276cc1602fb1ca7647cad9b75f7c90b\AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\f276cc1602fb1ca7647cad9b75f7c90b\AndroidManifest.xml:2:3-17
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-splash-screen] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/d3e2b32c27aa9a262bcfad303e2f9dbe/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/d3e2b32c27aa9a262bcfad303e2f9dbe/AndroidManifest.xml:13:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/dd7d00944e02e020f474075e54d2351f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/dd7d00944e02e020f474075e54d2351f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/010548bf386321138410a06831665d51/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/010548bf386321138410a06831665d51/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/76619f482248b8b10c554eddc303193e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/76619f482248b8b10c554eddc303193e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5f098852d6121f260cfa32414d480f55/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5f098852d6121f260cfa32414d480f55/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/02a22fba4b0e4ea9b819a14925d0cb3a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/02a22fba4b0e4ea9b819a14925d0cb3a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/4fb370d7b326b02fe9f7d756a8e43462/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/4fb370d7b326b02fe9f7d756a8e43462/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/01c3dbb586ee1f5dcf66513676d9ae49/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/01c3dbb586ee1f5dcf66513676d9ae49/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2ef26cb06d1d0170094191a117d83490/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2ef26cb06d1d0170094191a117d83490/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5466e83e6ab9b851655ac7baac0d50be/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5466e83e6ab9b851655ac7baac0d50be/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b9a9c12d9911ded8290c62e7d7def66b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b9a9c12d9911ded8290c62e7d7def66b/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:8:7-38
 activity#com.gaurav.news.MainActivity
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:13:7-23:18
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:13:7-23:18
 	android:screenOrientation
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:16:9-45
 	android:label
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:18:9-51
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:18:9-51
 	android:configChanges
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:17:9-79
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:17:9-79
 	android:name
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:19:9-22:25
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:20:13-65
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:20:21-62
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:21:13-73
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:21:23-70
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:21:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:24:7-84
+ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:24:7-84
 	android:name
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:24:17-81
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:24:17-81
 uses-sdk
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] F:\future\native\yttd\news-app\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] F:\future\native\yttd\news-app\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] F:\future\native\yttd\news-app\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] F:\future\native\yttd\news-app\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\4771460dc3ff2e1b8739e467acbe501d\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\4771460dc3ff2e1b8739e467acbe501d\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fb7ec06e4edab65f38e8b2d9d2321b62\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fb7ec06e4edab65f38e8b2d9d2321b62\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\d8991a044c01e5118aa2468a4bfa011f\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\d8991a044c01e5118aa2468a4bfa011f\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\b782dad013e39699d215e2a830272dd9\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\b782dad013e39699d215e2a830272dd9\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b7801b8649af90fff8a7bc210f4391a6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b7801b8649af90fff8a7bc210f4391a6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ef16401f936eb7a7d2e505513e96e32f\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ef16401f936eb7a7d2e505513e96e32f\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\6c1a2ffdfcacdbeb89a4ae39ba6dad02\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\6c1a2ffdfcacdbeb89a4ae39ba6dad02\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\5e3799f5ca530135837f7bf5749da9e6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\5e3799f5ca530135837f7bf5749da9e6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\240536a334988f2cc373186ac788897f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\240536a334988f2cc373186ac788897f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\089faacd33c2990937990effd4e11dc3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\089faacd33c2990937990effd4e11dc3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cf2f2c448bd533d6083b39101a95e9ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cf2f2c448bd533d6083b39101a95e9ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b49f6771ebf395ab3361204f06175d7f\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b49f6771ebf395ab3361204f06175d7f\AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\63da459b1ab59cc19497b886d42f0432\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\63da459b1ab59cc19497b886d42f0432\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0ff75725cdfecd93f81ddd487819b224\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0ff75725cdfecd93f81ddd487819b224\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\a0405dd5c71fb1bbd365c83200cbe9e7\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\a0405dd5c71fb1bbd365c83200cbe9e7\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a4c45e1009441cbf9f91b4780a296b1e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a4c45e1009441cbf9f91b4780a296b1e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\b68c876a2bfae054f157262b21e1dbfd\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\b68c876a2bfae054f157262b21e1dbfd\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ebefb8b7441346999c0cfd57c372401f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\ebefb8b7441346999c0cfd57c372401f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6bc76a7ec8c6befee2d92c8ab3205029\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6bc76a7ec8c6befee2d92c8ab3205029\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee436a139bf426e2b307fcc2c3784fb6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee436a139bf426e2b307fcc2c3784fb6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1621efe4edb20dc39c357fd8f2005d9b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1621efe4edb20dc39c357fd8f2005d9b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7fe807804593e85427fde2c16e3e13a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7fe807804593e85427fde2c16e3e13a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5ad8ff22792dc27dbc119ca8138d0947\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5ad8ff22792dc27dbc119ca8138d0947\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e0118864a582c6184aad97b6a2e0ae26\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e0118864a582c6184aad97b6a2e0ae26\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db02b80fde957cf504bebc598c99f457\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\db02b80fde957cf504bebc598c99f457\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\81bc39d002e1cb6d6be6bedc6af20389\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\81bc39d002e1cb6d6be6bedc6af20389\AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6dca5a999dcd0c2619f3b54e869a6d9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e6dca5a999dcd0c2619f3b54e869a6d9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f0fde2ffb2cb23ac6fac096c6290d484\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f0fde2ffb2cb23ac6fac096c6290d484\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\09ff669b3f66316a24b2644c429f4d94\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\09ff669b3f66316a24b2644c429f4d94\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\48adbc2c12d2115e7125f8d7f0e9b553\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\48adbc2c12d2115e7125f8d7f0e9b553\AndroidManifest.xml:20:5-44
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/d3e2b32c27aa9a262bcfad303e2f9dbe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/d3e2b32c27aa9a262bcfad303e2f9dbe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/199b900a327b311dd300a42a2f02e924/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/199b900a327b311dd300a42a2f02e924/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/dd7d00944e02e020f474075e54d2351f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/dd7d00944e02e020f474075e54d2351f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/010548bf386321138410a06831665d51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/010548bf386321138410a06831665d51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/76619f482248b8b10c554eddc303193e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/76619f482248b8b10c554eddc303193e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5f098852d6121f260cfa32414d480f55/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5f098852d6121f260cfa32414d480f55/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/02a22fba4b0e4ea9b819a14925d0cb3a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/02a22fba4b0e4ea9b819a14925d0cb3a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/4fb370d7b326b02fe9f7d756a8e43462/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/4fb370d7b326b02fe9f7d756a8e43462/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/01c3dbb586ee1f5dcf66513676d9ae49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/01c3dbb586ee1f5dcf66513676d9ae49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2ef26cb06d1d0170094191a117d83490/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2ef26cb06d1d0170094191a117d83490/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d5412dbc057267010bd705edf8f6438/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d5412dbc057267010bd705edf8f6438/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5d40624a5a5dd9dc0dc7264b31d7858d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5d40624a5a5dd9dc0dc7264b31d7858d/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/077dfa156e4a39ffb52e4def374bc5fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/077dfa156e4a39ffb52e4def374bc5fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6a0838ae3ce2437d3f9929be7ede38f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6a0838ae3ce2437d3f9929be7ede38f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2533c812bbb42e0fb89fd1128d50886b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2533c812bbb42e0fb89fd1128d50886b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/8417f4d578f4ec4aa23c57cdc8864947/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/8417f4d578f4ec4aa23c57cdc8864947/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/67385315517ca01ff70a6f44638ef4cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/67385315517ca01ff70a6f44638ef4cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5466e83e6ab9b851655ac7baac0d50be/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5466e83e6ab9b851655ac7baac0d50be/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a45586d50cd0c3f496403a790824e8ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a45586d50cd0c3f496403a790824e8ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a55ebc53e0c863877ee7c4d0e29a4db6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a55ebc53e0c863877ee7c4d0e29a4db6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8e39aabae79afad4af87c90b64c8d85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8e39aabae79afad4af87c90b64c8d85c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ce0bb0f271f97860dd0b5c180682202a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ce0bb0f271f97860dd0b5c180682202a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2efcf6ce00d11f495fd5e96c92551398/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2efcf6ce00d11f495fd5e96c92551398/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/783930e90a2c67c9fd80941adcd0507f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/783930e90a2c67c9fd80941adcd0507f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dff4f4ef0c0fcd770e6635745579a3cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dff4f4ef0c0fcd770e6635745579a3cf/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ca538114b8556730c28cf67ac0c34a53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ca538114b8556730c28cf67ac0c34a53/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7efdc5edb6a5d326174a4da21c95b745/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7efdc5edb6a5d326174a4da21c95b745/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/47313fe5798792f9bc79b67bcae77022/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/47313fe5798792f9bc79b67bcae77022/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a5f47e891afd18ccbb0c3e1396cfab4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a5f47e891afd18ccbb0c3e1396cfab4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/33db97939b5c7672375a0674ecd78b4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/33db97939b5c7672375a0674ecd78b4f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:5-68
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:24:5-68
+ADDED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:22-65
+		ADDED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:22:5-79
+ADDED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [:react-native-firebase] F:\future\native\yttd\news-app\node_modules\react-native-firebase\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:22-76
+		ADDED from [:react-native-firebase] /Users/healthmug/Documents/Gaurav/news/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:22-76
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:27:9-31:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:29:9-35:19
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:31:13-37
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:27:18-89
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:27:18-89
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:28:13-30:85
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:28:13-30:85
 	android:value
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:30:17-82
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:30:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\102465f906face16ec520e2ebd97a4d0\AndroidManifest.xml:29:17-139
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/2138190ad69032cf93c8d674b38de879/AndroidManifest.xml:29:17-139
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:26:5-110
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:26:22-107
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:31:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:30:13-85
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\aab831dedaf16ec0993f43ecb526fc0d\AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/a2de29b5e664a6421b43f5891d8d91f1/AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:36:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:37:13-36
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:38:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:35:13-100
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:40:17-79
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:40:25-76
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:46:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:47:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:45:13-84
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:50:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:51:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:52:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\865470b3412c243c8b53d40b04d07a8f\AndroidManifest.xml:49:13-87
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/646592da209b61628ea03bf2adc5211e/AndroidManifest.xml:49:13-87
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:26:22-79
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:33:17-96
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:33:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:37:9-44:20
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:37:9-44:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:39:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:39:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:40:13-73
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:40:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:38:13-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:38:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:41:13-43:29
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:41:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:42:17-81
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:42:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:42:25-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:42:25-78
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:50:9-56:19
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:50:9-56:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:52:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:51:13-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:51:13-77
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:53:13-55:29
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:53:13-55:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:53:28-51
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:53:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:54:17-80
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:54:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\08eed15eb11ade114e21486eb29f6c32\AndroidManifest.xml:54:25-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/9a831eed01469bac1c547c7abf0127a1/AndroidManifest.xml:54:25-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4167e332fea7823b42691df5119abcf1\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/616df05e7240a90c0f4a5c5238987f69/AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:10:9-14:39
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:10:9-14:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:12:13-72
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:12:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:13:13-37
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:13:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:14:13-36
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\155a44ce299c3a0cc3eeff720d366eb3\AndroidManifest.xml:11:13-77
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/62a99fe0c30306a3bafe4d90f43dbbc2/AndroidManifest.xml:11:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\87de294b06e3de37c527ac1fe7bacda9\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/healthmug/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de70ce377cd944e47aabbdd2d563625c/AndroidManifest.xml:24:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from F:\future\native\yttd\news-app\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/healthmug/Documents/Gaurav/news/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

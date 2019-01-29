@@ -1,4 +1,4 @@
-#Sun Jan 27 19:14:56 IST 2019
-base.0=F\:\\future\\native\\yttd\\news-app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Jan 29 10:31:02 IST 2019
+base.0=/Users/healthmug/Documents/Gaurav/news/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
