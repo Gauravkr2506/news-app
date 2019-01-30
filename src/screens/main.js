@@ -24,31 +24,63 @@ export default class Main extends React.Component {
 			<View style={{ flex: 1, backgroundColor: "#ccc" }}>
 				<ScrollView contentContainerStyle={{ margin: 0, padding: 0, backgroundColor: "#ccc", flex: 0 }}>
 					<View>
-						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center" }}>
-							<TouchableNativeFeedback style={{ flex: 1 }}>
-								<View style={{ flex: 1, height: 130, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
-									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 110, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106 }} />
+						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.amarujala.com/", "अमर उजाला")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>अमर उजाला</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "दैनिक जागरण")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/2.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>दैनिक जागरण</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.bbc.com/hindi", "BBC News हिन्दी")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/3.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>BBC News हिन्दी</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+						</View>
+						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/4.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
 										<Text numberOfLines={1}>Item 1</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback style={{ flex: 1 }}>
-								<View style={{ flex: 1, height: 130, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
-									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 110, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106 }} />
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/5.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
 										<Text numberOfLines={1}>Item 1</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback style={{ flex: 1 }}>
-								<View style={{ flex: 1, height: 130, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
-									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 110, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106 }} />
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/6.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
 										<Text numberOfLines={1}>Item 1</Text>
@@ -56,6 +88,135 @@ export default class Main extends React.Component {
 								</View>
 							</TouchableNativeFeedback>
 						</View>
+						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/7.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/8.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+						</View>
+						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+						</View>
+						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+						</View>
+						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>Item 1</Text>
+									</View>
+								</View>
+							</TouchableNativeFeedback>
+						</View>
+
 						{/* <View style={{ flexDirection: "row" }}>
 						<TouchableHighlight onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
 							<View style={{ backgroundColor: "red", margin: 3, flexDirection: "column" }}>
