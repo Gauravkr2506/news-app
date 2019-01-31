@@ -2,8 +2,6 @@ import React from "react";
 import SplashScreen from "react-native-splash-screen";
 import { FlatList, View, Text, Image, TouchableHighlight, TouchableNativeFeedback, ScrollView } from "react-native";
 
-import MyListItem from "./../components/main/main-list";
-
 export default class Main extends React.Component {
 	constructor(props) {
 		super(props);
@@ -18,7 +16,6 @@ export default class Main extends React.Component {
 		}, 1000);
 	}
 
-	_renderItem = ({ item }) => <MyListItem data={item} navigation={this.props.navigation} />;
 	render() {
 		return (
 			<View style={{ flex: 1, backgroundColor: "#ccc" }}>
@@ -45,244 +42,177 @@ export default class Main extends React.Component {
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.bbc.com/hindi", "BBC News हिन्दी")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.bbc.com/hindi", "BBC न्यूज़ हिन्दी")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
 										<Image source={require("./../../img/3.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>BBC News हिन्दी</Text>
+										<Text numberOfLines={1}>BBC न्यूज़ हिन्दी</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
 						</View>
 						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://kohraam.com/", "कोहराम न्यूज़")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
 										<Image source={require("./../../img/4.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>कोहराम न्यूज़</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.cobrapost.com/", "Cobrapost")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
 										<Image source={require("./../../img/5.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>Cobrapost</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://aajtak.intoday.in/", "आज तक")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
 										<Image source={require("./../../img/6.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>आज तक</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
 						</View>
 						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.haribhoomi.com/", "हरिभूमि")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
 										<Image source={require("./../../img/7.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>हरिभूमि</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.dbnnews.in/", "DBN न्यूज़")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
 										<Image source={require("./../../img/8.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>DBN न्यूज़</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://zeenews.india.com/hindi", "Zee न्यूज़")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+										<Image source={require("./../../img/zee-news.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>Zee न्यूज़</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
 						</View>
 						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://khabar.ndtv.com/?pfrom=home-header-globalnav", "NDTV इंडिया")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+										<Image source={require("./../../img/ndtv.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>NDTV इंडिया</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://hindi.indiatvnews.com/", "इंडिया टीवी")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+										<Image source={require("./../../img/india-tv.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>इंडिया टीवी</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://hindi.news18.com/", "न्यूज़ 18")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+										<Image source={require("./../../img/news18.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
-									</View>
-								</View>
-							</TouchableNativeFeedback>
-						</View>
-						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
-								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
-									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
-									</View>
-									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
-									</View>
-								</View>
-							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
-								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
-									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
-									</View>
-									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
-									</View>
-								</View>
-							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
-								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
-									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
-									</View>
-									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>न्यूज़ 18</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
 						</View>
 						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://abpnews.abplive.in/", "ABP न्यूज़")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+										<Image source={require("./../../img/abp.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>ABP न्यूज़</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://aajtak.intoday.in/indiatoday-hindi/", "इंडिया-टुडे")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+										<Image source={require("./../../img/india-today.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>इंडिया-टुडे</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
-							<TouchableNativeFeedback onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://hindi.timesnownews.com/", "टाइम्स नाउ हिंदी")} style={{ flex: 1 }}>
 								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
 									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
-										<Image source={require("./../../img/1.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+										<Image source={require("./../../img/times-now.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
 									</View>
 									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
-										<Text numberOfLines={1}>Item 1</Text>
+										<Text numberOfLines={1}>टाइम्स नाउ हिंदी</Text>
 									</View>
 								</View>
 							</TouchableNativeFeedback>
 						</View>
-
-						{/* <View style={{ flexDirection: "row" }}>
-						<TouchableHighlight onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
-							<View style={{ backgroundColor: "red", margin: 3, flexDirection: "column" }}>
-								<View style={{ alignItems: "center", justifyContent: "center", width: "100%" }}>
-									<Image source={require("./../../img/1.jpg")} resizeMode="center" />
+						<View style={{ flexDirection: "row", alignItem: "center", justifyContent: "center", marginTop: 10 }}>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("http://www.samaylive.com/", "सहारा समय")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/sahara-samay.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>सहारा समय</Text>
+									</View>
 								</View>
-								<View style={{ backgroundColor: "orange" }}>
-									<Text style={{ textAlign: "center" }}>Amar Unala</Text>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("http://ddnews.gov.in/hi", "दूरदर्शन न्यूज़")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/dd-news.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>दूरदर्शन न्यूज़</Text>
+									</View>
 								</View>
-							</View>
-						</TouchableHighlight>
-						<TouchableHighlight onPress={() => this.showWebPage("https://www.jagran.com/", "Danik Jagran")} style={{ flex: 1 }}>
-							<View style={{ backgroundColor: "red", margin: 3, flexDirection: "column" }}>
-								
-								<View style={{ backgroundColor: "orange" }}>
-									<Text style={{ textAlign: "center" }}>Amar Unala</Text>
+							</TouchableNativeFeedback>
+							<TouchableNativeFeedback onPress={() => this.showWebPage("https://ibn7.in/", "IBN7 न्यूज़")} style={{ flex: 1 }}>
+								<View style={{ flex: 1, alignItems: "center", justifyContent: "center", marginVertical: 3 }}>
+									<View style={{ borderWidth: 2, backgroundColor: "red", borderColor: "red", width: 110, height: 64, alignItems: "center", justifyContent: "center" }}>
+										<Image source={require("./../../img/ibn7.jpg")} resizeMode="center" style={{ width: 106, height: 60 }} />
+									</View>
+									<View style={{ backgroundColor: "orange", height: 26, borderWidth: 2, borderColor: "red", width: 110, alignItems: "center", justifyContent: "center" }}>
+										<Text numberOfLines={1}>IBN7 न्यूज़</Text>
+									</View>
 								</View>
-							</View>
-						</TouchableHighlight>
-						<TouchableHighlight onPress={() => this.showWebPage("https://www.bbc.com/hindi", "BBC")} style={{ flex: 1 }}>
-							<View style={{ backgroundColor: "red", margin: 3, flexDirection: "column" }}>
-								<View style={{ alignItems: "center", justifyContent: "center" }}>
-									<Image source={require("./../../img/1.jpg")} resizeMode="center" />
-								</View>
-								<View style={{ backgroundColor: "orange" }}>
-									<Text style={{ textAlign: "center" }}>Amar Unala</Text>
-								</View>
-							</View>
-						</TouchableHighlight>
-					</View> */}
-						{/* <View style={{ flexDirection: "row" }}>
-						<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-							<TouchableHighlight onPress={() => this.showWebPage("https://www.bbc.com/hindi", "BBC")}>
-								<Image source={require("./../../img/3.jpg")} resizeMode="contain" style={{ width: 160 }} />
-							</TouchableHighlight>
+							</TouchableNativeFeedback>
 						</View>
-						<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-							<TouchableHighlight onPress={() => this.showWebPage("https://kohraam.com/", "Kohraam News")}>
-								<Image source={require("./../../img/4.jpg")} resizeMode="contain" style={{ width: 160 }} />
-							</TouchableHighlight>
-						</View>
-					</View>
-					<View style={{ flexDirection: "row" }}>
-						<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-							<TouchableHighlight onPress={() => this.showWebPage("https://www.cobrapost.com/", "Cobra Post")}>
-								<Image source={require("./../../img/5.jpg")} resizeMode="contain" style={{ width: 160 }} />
-							</TouchableHighlight>
-						</View>
-						<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-							<TouchableHighlight onPress={() => this.showWebPage("https://aajtak.intoday.in/", "AajTak")}>
-								<Image source={require("./../../img/6.jpg")} resizeMode="contain" style={{ width: 160 }} />
-							</TouchableHighlight>
-						</View>
-					</View>
-					<View style={{ flexDirection: "row" }}>
-						<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-							<TouchableHighlight onPress={() => this.showWebPage("https://www.haribhoomi.com/", "Hari Bhoomi News")}>
-								<Image source={require("./../../img/7.jpg")} resizeMode="contain" style={{ width: 160 }} />
-							</TouchableHighlight>
-						</View>
-						<View style={{ flex: 1, padding: 10, alignItems: "center", justifyContent: "center" }}>
-							<TouchableHighlight onPress={() => this.showWebPage("https://www.dbnnews.in/", "DBN News")}>
-								<Image source={require("./../../img/8.jpg")} resizeMode="contain" style={{ width: 160 }} />
-							</TouchableHighlight>
-						</View>
-					</View> */}
 					</View>
 				</ScrollView>
 			</View>
